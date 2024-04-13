@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Refentse Quincy Moeng</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate frontend developer and Data scientist from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761141be77e8271b8c0a8ed5132e1dd1b61c0fae0472&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quincyrefentse&label=Profile%20views&color=0e75b6&style=flat" alt="quincyrefentse" /> </p>
 
-- 🔭 I’m currently working on **flutter ecommerce app**
+- 🔭 I’m currently working on **Data Science Porjects**
 
-- 🌱 I’m currently learning **Flutter,React Native**
+- 🌱 I’m currently learning **Flutter,React Native and Data Science**
 
 - 📫 How to reach me **quincyrefentse@gmail.com**
 
